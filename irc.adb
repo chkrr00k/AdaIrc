@@ -1,6 +1,3 @@
--- "proudly" made by chkrr00k;
--- & released in GPLv3 license;
-
 with Ada.Text_IO, GNAT.Sockets;
 use Ada.Text_IO, GNAT.Sockets;
 with Ada.Streams, Ada.Strings, Ada.Strings.Unbounded, Ada.Strings.Fixed, Ada.Strings.Equal_Case_Insensitive;
@@ -9,6 +6,8 @@ with Ada.Containers.Doubly_Linked_Lists;
 use Ada.Containers;
 with Ada.Strings.Unbounded.Text_IO;
 use Ada.Strings.Unbounded.Text_IO;
+-- "proudly" made by chkrr00k;
+-- & released in GPLv3 license;
 
 
 procedure irc is
